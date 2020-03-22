@@ -6,6 +6,6 @@ Feel free to contact me with any questions about any of my projects.
 
 I am not currently looking for a new job, but I wouldn't mind providing some independent counsel. 
 
-I can be emailed at [mailto](chris@cdcampbell.io), but I frequently check messages on the other listed platforms on my Home page.
+I can be emailed at [chris@cdcampbell.io](mailto:chris@cdcampbell.io), but I frequently check messages on the other listed platforms on my Home page.
 
-My current local time is {{time now.Date}}. 
+My current local time is {{ now.Date }}. 
