@@ -11,8 +11,6 @@ pygmentsstyle = "b2"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "yourdiscussshortname"
-
 [params]
     author = "Christopher Campbell"
     description = "Christopher Campbell's personal website"
