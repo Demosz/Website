@@ -1,5 +1,4 @@
 baseurl = "https://www.cdcampbell.io"
-title = "christophercampbell"
 theme = "hugo-coder"
 
 languagecode = "en"

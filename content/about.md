@@ -30,7 +30,7 @@ Here, you can find some information about me, what I'm working on, and how to ge
 *Jasper, Indiana*  
 
 
-##### Distribution Manager  :w
+##### Distribution Manager  
 
 *United States Marine Corps*  
 *Oct 2014 - Oct 2018*  
