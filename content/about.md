@@ -23,6 +23,7 @@ Here, you can find some information about me, what I'm working on, and how to ge
 * Aid and assist other researchers and analysts.
 * Provide technical mentorship to interns and other junior team members.
 * Perform QA on assessments of other team members.
+* Published on company blog for threat updates and application research.
 
 ##### IT Intern  
 *Matrix Integration*  
@@ -31,11 +32,14 @@ Here, you can find some information about me, what I'm working on, and how to ge
 
 
 ##### Distribution Manager  
-
 *United States Marine Corps*  
 *Oct 2014 - Oct 2018*  
 *Camp LeJeune, North Carolina; Gotemba, Japan*  
 
+##### Additional Certifications
+* AWS Certified Practitioner, Solutions Architect Associate
+* OSCP: Offensive Security Certified Professional 
+* OSCE: Offensive Security Certified Expert
 
 
 
