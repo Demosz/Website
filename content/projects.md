@@ -7,3 +7,6 @@ I will log the start dates of research projects and other educational milestones
 
 # March 2020
     Dating/Encounter Application Enumeration
+
+# March 2021
+    OSEP Certification 
