@@ -9,4 +9,4 @@ I will log the start dates of research projects and other educational milestones
     Dating/Encounter Application Enumeration
 
 # March 2021
-    OSEP Certification 
+    OSEP Certification and TacNetSol hardware hacking course
