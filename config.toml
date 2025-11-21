@@ -59,20 +59,10 @@ pygmentscodefencesguesssyntax = true
   tag = "tags"
 
 [[params.social]]
-    name = "Twitter"
-    icon = "fab fa-twitter"
-    weight = 3
-    url = "https://twitter.com/CampbellIse/"
-[[params.social]]
     name = "LinkedIn"
     icon = "fab fa-linkedin"
     weight = 4
     url = "https://linkedin.com/in/christopher-campbell-a5493515a/"
-[[params.social]]
-    name = "Medium"
-    icon = "fab fa-medium"
-    weight = 5
-    url = "https://blog.securityevaluators.com/"
 
 
 [languages]
